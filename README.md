@@ -51,15 +51,17 @@ $ cat about_me.txt
 ### 🗄️ Bases de données & Modélisation
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-[![UML](https://img.shields.io/badge/UML-Modeling-blue?style=for-the-badge)](https://app.diagrams.net/)
-[![MERISE](https://img.shields.io/badge/MERISE-Methodology-orange?style=for-the-badge)](https://www.astah.net/)
+![draw.io](https://img.shields.io/badge/draw.io-diagrams.net-blue?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+[![Astah](https://img.shields.io/badge/Astah-astah.net-red?style=for-the-badge)](https://astah.net/)
 
 ### 🔧 Outils
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 </div>
 
 ---
@@ -82,7 +84,6 @@ $ cat about_me.txt
       <p align="center">
         <img src="https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/Blynk-00C05B?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
       </p>
       <p>Application mobile connectée pour surveiller l'humidité et la température en temps réel via capteurs DHT11 + ESP8266, avec arrosage automatique.</p>
     </td>
@@ -91,7 +92,10 @@ $ cat about_me.txt
     <td width="50%" valign="top">
       <h3 align="center">🛒 E-commerce Full-Stack</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
@@ -102,7 +106,9 @@ $ cat about_me.txt
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
       <p>Développement & mise en ligne de <a href="https://institutiaf.org">institutiaf.org</a> et <a href="https://wellconseil.com">wellconseil.com</a> — PMCE Technopark.</p>
     </td>
