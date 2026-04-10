@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="coding gif"/>
 
 ### 🌸 `whoami`
 
