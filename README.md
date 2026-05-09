@@ -120,11 +120,6 @@ $ cat about_me.txt
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=doniamastour&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff&border_color=C084FC&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniamastour&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=C084FC&text_color=ffffff&border_color=C084FC"/>
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=doniamastour&theme=tokyonight&background=0d1117&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&border=C084FC)](https://git.io/streak-stats)
 
 </div>
